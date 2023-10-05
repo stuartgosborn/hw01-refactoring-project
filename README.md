@@ -1,5 +1,5 @@
 # hw01-refactoring-project
-## Challenge 1 project, refactoring for accessibility. 
+Challenge 1 project, refactoring for accessibility. 
 
 ## User Story
 AS A marketing agency
@@ -30,6 +30,7 @@ THEN I find a concise, descriptive title
     - updated CSS header div element selectors to respective header and nav element selectors 
     - updated third div element to main element 
     - updated div elements within main element to article elements
-    
+    - updated side div element and child elements to aside element and section elements respectively
+    - updated final div element to footer element 
 
 
