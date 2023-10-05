@@ -36,6 +36,9 @@ THEN I find a concise, descriptive title
 - Added, Commited, and Merged all changes to main branch and deleted refactoring/semantic-html branch
 - Completed Semantic HTML and Logical Structure issues 
 - Added thoughtful alt attributes to each image. 
-- 
+- Staged, commited, and merged new code to remote repository.
+- Completed Accessible alt attributes issue
+- Ensured all HTML heading tags descended sequentially within each parent element and Completed respective GitHub issue (no commit or merge necessary)
+- Added concise and descriptive title, "Horiseon: Online PR Specialist," to title element
 
 
