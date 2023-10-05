@@ -32,5 +32,10 @@ THEN I find a concise, descriptive title
     - updated div elements within main element to article elements
     - updated side div element and child elements to aside element and section elements respectively
     - updated final div element to footer element 
+- Ensured HTML elements followed logical structure
+- Added, Commited, and Merged all changes to main branch and deleted refactoring/semantic-html branch
+- Completed Semantic HTML and Logical Structure issues 
+- Added thoughtful alt attributes to each image. 
+- 
 
 
